@@ -12,32 +12,36 @@
 
 Перечень некоторых традиционных банков:
 
-- **[Commerzbank](https://www.commerzbank.de/)** — член Cash Group.
+- [Commerzbank](https://www.commerzbank.de/) — член Cash Group.
   - Обслуживание расчётного счёта бесплатное при условии ежемесячного дохода не менее 1200 евро, а при невыполнении этого условия — 10 евро в месяц.
   - Можно оформить PremiumKonto за фиксированную плату 10 евро в месяц. За это получите две дебетовые карты, две кредитные карты, страховку в поездках и некоторые другие бонусы.
   - Проводит акции, когда при открытии счёта можно получить бонус, например, 50 или 100 евро.
   - При открытии счета по рекомендации рекомендатель может тоже получить бонус (25 евро, или выбрать что-нибудь в подарок).
-- **[Deutsche Bank](https://www.deutsche-bank.de/)** — член Cash Group. Название Deutsche Banke упоминалось в связи с расследованиями об отмывании денег российских олигархов ([[1]](http://www.bloomberg.com/news/articles/2015-06-05/deutsche-bank-probe-said-to-target-6-billion-of-russian-trades), [[2]](http://blogs.reuters.com/breakingviews/2015/10/27/deutsches-russia-and-it-problems-could-be-linked/), [[3]](http://www.valuewalk.com/2015/08/deutsche-bank-money-laundering/)).
-- **[Postbank](https://www.postbank.de/)** — член Cash Group, дочка Deutsche Bank. Отделения часто совмещены с отделениями почты (Deutsche Post / DHL), из состава которой он был выделен.
-- **[Berliner Bank](https://www.berliner-bank.de/)** — член Cash Group, дочка Deutsche Bank.
-- **[HypoVereinsbank](https://www.hypovereinsbank.de/)**, он же **UniCredit Bank** — член Cash Group, баварский банк, принадлежащий итальянской группе UniCredit.
-- **[Sparkasse](https://www.sparkasse.de/)** — по сути ассоциация различных банков под одним брендом. Не является членом Cash Group.
+- [Deutsche Bank](https://www.deutsche-bank.de/) — член Cash Group. Название Deutsche Banke упоминалось в связи с расследованиями об отмывании денег российских олигархов ([[1]](http://www.bloomberg.com/news/articles/2015-06-05/deutsche-bank-probe-said-to-target-6-billion-of-russian-trades), [[2]](http://blogs.reuters.com/breakingviews/2015/10/27/deutsches-russia-and-it-problems-could-be-linked/), [[3]](http://www.valuewalk.com/2015/08/deutsche-bank-money-laundering/)).
+- [Postbank](https://www.postbank.de/) — член Cash Group, дочка Deutsche Bank. Отделения часто совмещены с отделениями почты (Deutsche Post / DHL), из состава которой он был выделен.
+- [Berliner Bank](https://www.berliner-bank.de/) — член Cash Group, дочка Deutsche Bank.
+- [HypoVereinsbank](https://www.hypovereinsbank.de/), он же **UniCredit Bank** — член Cash Group, баварский банк, принадлежащий итальянской группе UniCredit.
+- [Sparkasse](https://www.sparkasse.de/) — по сути ассоциация различных банков под одним брендом. Не является членом Cash Group.
   - Много отделений и, соответственно, банкоматов. Встречается в Берлине, кажется, чаще, чем все банки Cash Group, вместе взятые.
   - Если снимать деньги с карты к счёту, открытому в Берлине, в шпаркассах других земель, может взиматься комиссия.
 
 Директ-банки:
 
-- **[Ing Diba](https://www.ing-diba.de/)**
-- **[Number26](https://number26.de/)** — современный онлайн-банк с push уведомлениями и удобным мобильным приложением.
+- **[Ing Diba](https://www.ing.de/)** - **[Открыть Girokonto реферальная ссылка](https://www.ing.de/girokontokwk/a/lSRpYh00iB)**
+- **[Vivid](https://vivid.money/en-de/)** - **[Открыть Vivid Money реферальная ссылка](https://vivid.money/r/oleksandrGTN)** - современный онлайн-банк с push уведомлениями и удобным мобильным приложениемю
+  - Выдают модную металлическую карту Visa
+  - Развитая система кэшбека (команда Тинькофф)
+  - Поддержка инвестирования в акции внутри приложения, торговля криптовалютой
+- [N26](https://n26.com/de-de/) — современный онлайн-банк с push уведомлениями и удобным мобильным приложением.
   - Выдают карту MasterCard.
   - Дополнительно можно получить карту Maestro, которая **не совместима с girocard** (см. ниже).
   - Требует для открытия счёта наличия смартфона с определёнными системными требованиями, при этом счёт привязывается к конкретному смартфону. Управление счётом происходит через хорошо сделанное приложение.
   - Позволяет снимать деньги без комиссии почти во всех банкоматах (до 5 снятий в месяц бесплатно, за пределами Германии бесплатно)
   - Не взимает плату за обслуживание.
   - Регистрация и подтверждение личности происходят через видеочат.
-- **[Comdirect](https://www.comdirect.de/)** — член Cash Group, дочка Commerzbank.
-- **[Norisbank](https://www.norisbank.de/)** — член Cash Group, дочка Deutsche Bank.
-- **[Amazon.de VISA Karte](https://www.amazon.de/gp/help/customer/display.html/ref=hp_bc_nav?ie=UTF8&nodeId=200069200)** — услуга, предоставляемая [Landesbank Berlin](http://www.lbb.de/amazon/) в сотрудничестве с Amazon.
+- [Comdirect](https://www.comdirect.de/) — член Cash Group, дочка Commerzbank. Онлайн 
+- [Norisbank](https://www.norisbank.de/) — член Cash Group, дочка Deutsche Bank.
+- [Amazon.de VISA Karte](https://www.amazon.de/gp/help/customer/display.html/ref=hp_bc_nav?ie=UTF8&nodeId=200069200) — услуга, предоставляемая [Landesbank Berlin](http://www.lbb.de/amazon/) в сотрудничестве с Amazon.
   - Выдают кредитную карту VISA.
   - Первый год обслуживания — бесплатно, дальше — 20 евро в год.
   - С каждой покупки копятся бонусы, которые потом можно потратить на Amazon. Этим можно компенсировать стоимость обслуживания.
